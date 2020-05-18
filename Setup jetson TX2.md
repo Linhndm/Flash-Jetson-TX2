@@ -95,12 +95,13 @@
 
 * The display shows the progress of the download and installation of the software.
   
-  ![](/Image/6.png)
+   ![](/Image/6.png)
 
 * At the top, you can toggle between the Details and Terminal tabs. The Terminal tab shows detailed information about the download and installation, with any errors highlighted.
 * On the Terminal tab, you can use the Filter text field to filter and search for specific information.
 * A window will appear, asking for the username and password of the TX2. Leave in be and continue to the next step
-  ![](/Image/7.png)
+   
+   ![](/Image/7.png)
 
 
 ### **Step 4: On the TX2**:
